@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /C:\Users\Test\OneDrive\Dokumenty\GitHubKawonator\temp\webhelp-responsive\topics?><?workdir-uri file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/temp/webhelp-responsive/topics/?><?path2project ..\?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="t_assembling" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="task:1;3:25" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="title:1;4:12">Assembling</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="shortdesc:1;5:16">A step-by-step assembly procedure</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="p:1;8:16">Assembling your Kawonator <keyword keyref="product" class="- topic/keyword " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="keyword:1;8:69">KW100</keyword> espresso machine Your <keyword keyref="product" class="- topic/keyword " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="keyword:2;9:39">KW100</keyword> will have the Drip Tray and Water Tank in place when you
+                unpack it from the box. Other elements will be provided in foam packaging and
+                require manual assembly. Before first use we strongly recommend to perform two
+                complete water brewing operation (without ground coffee), to ensure that all
+                internal piping has been preheated.</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="steps:1;15:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="step:1;16:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="cmd:1;17:22">Remove the Drip Tray and Water Tank and wash all parts and accessories in warm,
+                    soapy water using a non-abrasive washing liquid. Rinse and dry thoroughly.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="step:2;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="cmd:2;21:22">Insert the Storage Tray into the base of the machine and slide in towards the
+                    back wall. This is a convenient location to store spare filters and other
+                    maintenance equipment like Kawonator-compatible filter cleaning fluid.</cmd>
+            </step>
+            <step product="product1" class="- topic/li task/step " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="step:3;25:38">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="cmd:3;26:22">Slide the Drip Tray, with the Drip Tray Full Indicator and Grid in place, into
+                    the base of the machine and in front of the Storage Tray.</cmd>
+            </step>
+            <step product="product2" class="- topic/li task/step " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="step:4;29:38">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="cmd:4;30:22">Slide the Drip Tray, with the Drip Tray Full Indicator and each of its two
+                    Grids in place, into the base of the machine and in front of the Storage
+                    Tray.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="step:5;34:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/t_assembling.dita" xtrc="cmd:5;35:22">Slide the Water Tank over the Drip Tray and into the front opening of the
+                    machine and into position above the Storage Tray. Ensure the Water Tank aligns
+                    flush with the sides of the machine.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:6;54:56" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/KW_docset.ditamap.xml"><link class="- topic/link " format="dita" href="../topics/c_introduction-2.dita" mapclass="- map/topicref " role="parent" scope="local" type="concept" xtrc="topicref:5;50:49" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/KW_docset.ditamap.xml"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>ConsumerMaintenance guide</linktext><?ditaot genshortdesc?><desc class="- topic/desc ">Learn how to <ph audience="consumer" class="- topic/ph " xtrc="ph:3;6:53" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/c_introduction.dita">operate</ph><ph audience="maintenance" class="- topic/ph " xtrc="ph:4;7:14" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/c_introduction.dita">maintain</ph> your <keyword class="- topic/keyword " keyref="company" xtrc="keyword:1;7:60" xtrf="file:/C:/Users/Test/OneDrive/Dokumenty/GitHubKawonator/topics/c_introduction.dita">Kawomator</keyword> espresso machine.</desc></link></linkpool></related-links></task>
